@@ -8,6 +8,13 @@
 > 📌 **If you're working on rainfall, hydro-meteorology, or time series modeling with irregular sparsity—this benchmark is designed for you.**
 
 ---
+## 📈 Results Overview
+
+<p align="center">
+  <img src="pic/result.png" width="700">
+</p>
+
+**Figure:** Performance comparison of 20+ models on RainfallBench across multiple temporal scales. 
 
 ## 🔍 Motivation
 
