@@ -87,6 +87,7 @@ cd RainfallBench
 conda create -n rainfallbench python=3.10
 conda activate rainfallbench
 pip install -r requirements.txt
+'''
 
 ## 🙏 Acknowledgements
 We appreciate the following open-source repositories for their valuable contributions to time series forecasting and attention mechanisms. Their codebases provided important foundations and insights during the development of RainfallBench and BFPF.
