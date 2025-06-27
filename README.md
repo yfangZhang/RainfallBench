@@ -89,12 +89,5 @@ conda activate rainfallbench
 pip install -r requirements.txt
 
 ## 🙏 Acknowledgements
-
 We appreciate the following open-source repositories for their valuable contributions to time series forecasting and attention mechanisms. Their codebases provided important foundations and insights during the development of RainfallBench and BFPF.
-
-- [Reformer](https://github.com/lucidrains/reformer-pytorch)
-- [Informer](https://github.com/zhouhaoyi/Informer2020)
-- [FlashAttention](https://github.com/shreyansh26/FlashAttention-PyTorch)
-- [Autoformer](https://github.com/thuml/Autoformer)
-- [Stationary Transformers](https://github.com/thuml/Nonstationary_Transformers)
 - [Time-Series-Library](https://github.com/thuml/Time-Series-Library)
