@@ -51,7 +51,8 @@ RainfallBench addresses these challenges by offering a **domain-specific benchma
 
 All data are cleaned, normalized, and chronologically ordered. No missing values.
 
-📁 The full dataset is available [here](#) (link to release or Zenodo/GitHub repo).
+📁 **Dataset location**:  
+https://github.com/yfangZhang/RainfallBench/tree/main/dataset/gnss
 
 ---
 
