@@ -1,7 +1,6 @@
 # 🌧️ RainfallBench: A Benchmark for Real-World Rainfall Time-Series Forecasting
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![Paper](https://img.shields.io/badge/AAAI-2026-orange)](https://anonymous.aaai.org/)
 
 **RainfallBench** is the first dedicated benchmark for rainfall time series forecasting using historical meteorological data. It provides a unified platform for evaluating state-of-the-art forecasting models under domain-specific challenges such as zero inflation, temporal decay, and weak periodicity.
 
@@ -48,7 +47,7 @@ RainfallBench addresses these challenges by offering a **domain-specific benchma
 | `rh`     | Relative humidity |
 | `wind_speed` | Wind speed |
 | `pwv`    | Precipitable water vapor (retrieved via GNSS delay inversion) |
-| `tp`     | Total precipitation (target, from ERA5 reanalysis) |
+| `tp`     | Total precipitation (target, from  GPM (IMERG) final product) |
 
 All data are cleaned, normalized, and chronologically ordered. No missing values.
 
