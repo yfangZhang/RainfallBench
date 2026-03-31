@@ -7,6 +7,11 @@
 > 📌 **If you're working on rainfall, hydro-meteorology, or time series modeling with irregular sparsity—this benchmark is designed for you.**
 
 ---
+## 📄 Associated Paper (TGRS 2026)
+
+This benchmark is introduced in our paper published in *IEEE Transactions on Geoscience and Remote Sensing (TGRS)*:
+
+👉 [How Effective Are Time-Series Models for Precipitation Nowcasting? A Comprehensive Benchmark for GNSS-Based Precipitation Nowcasting](https://ieeexplore.ieee.org/document/11424616)
 ## 📈 Results Overview
 
 <p align="center">
@@ -91,4 +96,19 @@ pip install -r requirements.txt
 
 We appreciate the following open-source repositories for their valuable contributions to time series forecasting and attention mechanisms. Their codebases provided important foundations and insights during the development of RainfallBench and BFPF.
 - [Time-Series-Library](https://github.com/thuml/Time-Series-Library)
+
+**Citation:**
+
+```bibtex
+@ARTICLE{Zhang2026TGRS,
+  author={Y. Zhang and et al.},
+  journal={IEEE Transactions on Geoscience and Remote Sensing},
+  title={How Effective Are Time-Series Models for Precipitation Nowcasting? A Comprehensive Benchmark for GNSS-Based Precipitation Nowcasting},
+  year={2026},
+  volume={64},
+  pages={1-16},
+  articleno={5800716},
+  doi={10.1109/TGRS.2026.3671768},
+  keywords={Precipitation; Predictive models; Forecasting; Benchmark testing; Time series analysis; GNSS; PWV; Meteorology}
+}
 
